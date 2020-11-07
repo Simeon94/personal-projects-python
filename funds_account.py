@@ -1,7 +1,7 @@
 import datetime
 import pytz
 
-
+##
 class Account:
     """ Simple account to log all transactions of the funds """
 
